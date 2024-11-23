@@ -1,7 +1,7 @@
 ---
 permalink: /markdown/
-title: "Markdown"
-author_profile: true
+title: "Contact Me"
+author_profile: false
 redirect_from: 
   - /md/
   - /markdown.html
