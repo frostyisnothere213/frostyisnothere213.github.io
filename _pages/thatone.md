@@ -1,7 +1,7 @@
 ---
 permalink: /24kasim/
 title: "Öğretmenlerim için"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
