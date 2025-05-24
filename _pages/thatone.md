@@ -11,5 +11,5 @@ redirect_from:
 
 Eğer burayı doğru kodladıysam; resimlerin gözükmesi lazım.
 
-![İlk bulmaca](images/Ekran görüntüsü 2025-05-24 104159.png)
-![İkinci bulmaca](images/Ekran görüntüsü 2025-05-24 105259.png)
+![İlk bulmaca](images/Ekran%20görüntüsü%202025-05-24%20104159.png)
+![İkinci bulmaca](images/Ekran%20görüntüsü%202025-05-24%20105259.png)
